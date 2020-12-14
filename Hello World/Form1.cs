@@ -31,5 +31,10 @@ namespace Hello_World
         {
 
         }
+
+        private void TextBox1_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
